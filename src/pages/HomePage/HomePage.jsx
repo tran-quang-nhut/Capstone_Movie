@@ -7,7 +7,7 @@ const HomePage = () => {
   return (
     <div>
       <HomeBanner />
-      {/* Danh sách phim  */}
+      {/* Danh sách phim. tiendat*/}
       <ListMovie />
       {/* Các tab hệ thống rạp  */}
       <TabMovie />
